@@ -1,6 +1,10 @@
 ---
 name: home-maintenance-os
+version: 1.0.0
 description: Track everything about your home -- appliances, service history, contractors, and upcoming maintenance. Use this skill whenever someone mentions a home appliance, HVAC system, water heater, contractor, repair, maintenance schedule, warranty, service call, or anything related to keeping a house running. Trigger on casual phrases too -- "the AC guy came today," "when did we replace the filter," "who's our plumber," "what's due for maintenance," or "how much have I spent on repairs" should all activate this skill. Supports multiple properties for homeowners managing more than one home.
+metadata:
+  openclaw:
+    emoji: 🏠
 ---
 
 # Home Maintenance OS
